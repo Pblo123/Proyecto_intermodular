@@ -60,10 +60,10 @@ Mediadores de seguros titulados, gestores de atención al cliente, personal admi
 
 | **Departamento** | **Necesidad detectada** | **Problema o riesgo** | **Prioridad** |
 | :---: | :---: | :---: | :---: |
-| Dirección y Cumplimiento |  |  |  |
-| Comercial y Mediación |  |  |  |
-| Tramitación de Siniestros y Postventa |  |  |  |
-| Administración y Servicios | **Impresoras** |  |  |
+| Dirección y Cumplimiento | **Supervisión del personal** |  **Falta de trabajo en horas laborales**  |  **Baja**  |
+| **Comercial y Mediación** | **Equipos informáticos y servicios de conexión** |  **Baja conectividad con clientes y servicios de la empresa**  |  **Alta**  |
+|**Tramitación de Siniestros y Postventa**  |  **Gestión de información Firewall**   | **Vulnerabilidades en datos de los clientes**  | **Alta**  |
+| **Administración y Servicios** | **Impresoras** |  **Saturación de uso de la impresora actual**  |  **Media**  |
 #### Bloque 3. Necesidades de la empresa
 - Problemas relacionados con el uso de las TIC
 
