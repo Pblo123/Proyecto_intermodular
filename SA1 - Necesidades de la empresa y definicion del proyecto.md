@@ -18,7 +18,6 @@
 | Sector de actividad | Servicios empresariales y movilidad |
 | Actividad principal | Gestión integral de soluciones de movilidad: alquiler, renting y suscripción de vehículos |
 | Productos y servicios | Movilidad flexible, alquiler de vehículos, renting, suscripción, seguros y garantías |
-| Tamaño aproximado | 33 trabajadores |
 | Número de sedes o centros de trabajo | 4 |
 | Número aproximado de trabajadores | 33 |
 | Tipo de clientes | Empresas y particulares |
