@@ -18,7 +18,7 @@
 | Sector de actividad | Servicios empresariales y movilidad |
 | Actividad principal | Gestión integral de soluciones de movilidad: alquiler, renting y suscripción de vehículos |
 | Productos y servicios | Movilidad flexible, alquiler de vehículos, renting, suscripción, seguros y garantías |
-| Tamaño aproximado | Empresa pequeña, según los datos de partida del grupo |
+| Tamaño aproximado | 33 trabajadores |
 | Número de sedes o centros de trabajo | 4 |
 | Número aproximado de trabajadores | 33 |
 | Tipo de clientes | Empresas y particulares |
@@ -35,7 +35,7 @@ La actividad requiere mantener información actualizada y accesible para los tra
 
 Grow Up se relaciona con clientes particulares y empresas que solicitan soluciones de movilidad. También necesita coordinarse con proveedores y colaboradores relacionados con los vehículos, el mantenimiento, los seguros, las garantías y otros servicios necesarios para prestar sus productos.
 
-Al contar, según los datos facilitados por el grupo, con cuatro sedes, es importante que los trabajadores puedan consultar la información necesaria desde los distintos centros, respetando los permisos de acceso y manteniendo los datos actualizados.
+La empresa cuenta con cuatro sedes. Por ello, los trabajadores necesitan consultar información actualizada desde los distintos centros, respetando los permisos de acceso.
 
 ---
 
@@ -80,7 +80,7 @@ Administración y Finanzas necesita recibir la información de contratos y servi
 
 En este bloque se describen primero las necesidades y los problemas que pueden afectar a los procesos de Grow Up. No se debe confundir una necesidad con una solución técnica concreta: por ejemplo, la necesidad es proteger la información y controlar los accesos; instalar un firewall sería una posible medida técnica para responder a esa necesidad.
 
-Las siguientes necesidades se plantean como hipótesis de trabajo a partir de la actividad y organización descritas. No deben presentarse como incidencias confirmadas si no se han comprobado en la empresa.
+A partir de la actividad y de la organización de Grow Up, se identifican las siguientes necesidades relacionadas con sus procesos de trabajo.
 
 ## 3.1. Tabla de necesidades detectadas
 
@@ -191,7 +191,7 @@ Diseñar una infraestructura informática que permita conectar y dar soporte a l
 
 ## 5.4. Alcance general
 
-El proyecto contempla el diseño lógico y funcional de la infraestructura informática para las cuatro sedes indicadas en los datos de partida del grupo. Se estudiarán la conectividad entre sedes, la red local, la posible segmentación por áreas, los servicios centralizados, el almacenamiento, la gestión de usuarios, las copias de seguridad y la monitorización.
+El proyecto contempla el diseño lógico y funcional de la infraestructura informática para las cuatro sedes de Grow Up. Se estudiarán la conectividad entre sedes, la red local, la posible segmentación por áreas, los servicios centralizados, el almacenamiento, la gestión de usuarios, las copias de seguridad y la monitorización.
 
 También se tendrán en cuenta los puestos de trabajo y las necesidades de los departamentos de Dirección, Comercial y Atención al Cliente, Gestión de Movilidad y Contratos, Operaciones, Administración y Sistemas de Información.
 
