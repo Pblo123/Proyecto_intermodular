@@ -123,6 +123,8 @@ Las necesidades tecnológicas deben justificarse por su relación con el trabajo
 - Dirección necesita información general y actualizada para coordinar la actividad, no una vigilancia indiscriminada de los trabajadores.
 - El área TIC necesita conocer el estado de los sistemas para mantener la continuidad del servicio.
 
+La relación entre actividad y necesidad queda resumida así: la prestación de servicios de movilidad genera solicitudes, reservas y contratos; estos procesos requieren información de clientes y vehículos; la coordinación de las cuatro sedes requiere compartir esa información de forma controlada; y la administración necesita los datos de los servicios para gestionar facturación y cobros. Por tanto, las necesidades de conectividad, gestión documental, control de accesos, disponibilidad y copias de seguridad derivan de procesos concretos de la empresa y no de una elección anticipada de tecnologías.
+
 ---
 
 # Bloque 4. Oportunidades de mejora y justificación del proyecto
@@ -140,7 +142,22 @@ Las necesidades tecnológicas deben justificarse por su relación con el trabajo
 | Mantenimiento TIC | Mantener inventario y supervisar equipos y servicios. | Detectar problemas antes y planificar el mantenimiento. |
 | Continuidad del servicio | Establecer copias de seguridad y procedimientos de recuperación. | Reducir el impacto de pérdidas de información o averías. |
 
-## 4.2. Justificación del proyecto
+## 4.2. Oportunidades de negocio relacionadas con la actividad de Grow Up
+
+Además de mejorar los procesos internos, el análisis de las necesidades de movilidad permite identificar oportunidades que podrían ayudar a Grow Up a ampliar o mejorar sus servicios. Estas propuestas son posibilidades para estudiar, no servicios que se afirme que la empresa ya ofrece.
+
+| Oportunidad de negocio | Relación con la actividad de Grow Up | Necesidad que habría que cubrir | Beneficio potencial |
+|---|---|---|---|
+| Ampliar los servicios para empresas | Ofrecer soluciones de movilidad adaptadas a empresas que necesitan vehículos durante periodos determinados. | Gestionar solicitudes, contratos, disponibilidad de vehículos y documentación de cada cliente empresarial. | Aumentar la cartera de clientes y favorecer relaciones comerciales continuadas. |
+| Ofrecer modalidades de movilidad flexible | Facilitar alternativas de alquiler, renting o suscripción según la duración y las necesidades del cliente. | Mantener información clara sobre modalidades, condiciones, reservas y contratos. | Adaptarse a diferentes perfiles de clientes y necesidades de uso. |
+| Mejorar la gestión y seguimiento de la flota | Facilitar información coordinada sobre disponibilidad, entregas, devoluciones y revisiones de los vehículos. | Disponer de datos actualizados y compartidos entre las áreas implicadas y las sedes. | Aprovechar mejor los vehículos y reducir errores de planificación. |
+| Mejorar la atención y fidelización de clientes | Mantener un seguimiento organizado de consultas, solicitudes y servicios contratados. | Consultar el historial de relación con el cliente y conocer el estado de sus solicitudes con permisos adecuados. | Ofrecer una atención más ágil y favorecer la continuidad de los clientes. |
+| Coordinar servicios complementarios | Gestionar de forma ordenada la documentación relacionada con seguros, garantías y otros servicios vinculados a la movilidad. | Relacionar la documentación complementaria con el contrato o servicio correspondiente. | Facilitar la gestión del servicio completo y reducir trámites repetidos. |
+| Dar soporte homogéneo a todas las sedes | Facilitar que los centros trabajen con procedimientos e información comunes. | Compartir información actualizada y establecer permisos y procesos comunes. | Mantener una calidad de servicio más uniforme entre sedes. |
+
+Estas oportunidades están vinculadas a los procesos que desarrolla la empresa. Para convertirlas en iniciativas reales, Grow Up tendría que valorar su demanda, viabilidad económica, recursos disponibles y acuerdos con proveedores. El Sistema Informático Empresarial propuesto serviría como infraestructura de apoyo, pero no garantiza por sí mismo el aumento de ventas ni la implantación de nuevos servicios.
+
+## 4.3. Justificación del proyecto
 
 La actividad de Grow Up requiere coordinar clientes, solicitudes, contratos, vehículos, documentación administrativa y diferentes sedes. Estos procesos dependen del acceso a información actualizada y de que los servicios informáticos estén disponibles cuando los trabajadores los necesitan.
 
@@ -264,5 +281,4 @@ Los requisitos describen lo que el sistema deberá hacer y las condiciones que d
 | Ajustarse a la empresa | RNF-10 |
 
 ---
-
 
