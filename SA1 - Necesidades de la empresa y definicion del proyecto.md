@@ -4,7 +4,6 @@
 
 **Empresa:** Grow Up  
 **Ubicación:** Alcoy (Alicante)  
-**Resultado de aprendizaje:** RA1  
 
 ---
 
