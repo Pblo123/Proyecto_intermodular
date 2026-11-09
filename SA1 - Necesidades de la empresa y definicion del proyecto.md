@@ -73,17 +73,8 @@ Administración y Finanzas necesita recibir la información de contratos y servi
 
 ## 2.4. Organigrama funcional propuesto
 
-```text
-                         DIRECCIÓN Y COORDINACIÓN
-                                   |
-       ---------------------------------------------------------
-       |             |                |            |            |
-  Comercial y    Gestión de       Operaciones  Administración  Sistemas de
-  atención al    movilidad y      y gestión    y finanzas      información
-  cliente        contratos        de vehículos                 y soporte TIC
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/ba991b20-42d4-4d02-be93-5eb591192556" />
 
----
 
 # Bloque 3. Detección de necesidades
 
