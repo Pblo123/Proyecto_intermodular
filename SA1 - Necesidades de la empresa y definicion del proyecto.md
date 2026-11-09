@@ -286,13 +286,3 @@ La propuesta relaciona la actividad de Grow Up con sus departamentos, las necesi
 
 ---
 
-# Comprobaciones antes de entregar
-
-- Confirmar que Grow Up tiene efectivamente cuatro sedes y aproximadamente 33 trabajadores.
-- Confirmar los nombres y funciones reales de los departamentos.
-- Comprobar si la gestión de vehículos, contratos y operaciones se realiza internamente o mediante proveedores.
-- Sustituir las hipótesis por información confirmada cuando la empresa la facilite.
-- Revisar que cada necesidad describe primero un problema o proceso y no directamente una solución técnica.
-- Comprobar que cada requisito responde a una necesidad identificada.
-- Incorporar el documento al repositorio del proyecto y actualizar la bitácora.
-- Exportar la versión final a PDF si así lo exige la entrega.
