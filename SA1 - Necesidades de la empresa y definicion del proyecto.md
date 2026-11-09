@@ -265,15 +265,4 @@ Los requisitos describen lo que el sistema deberá hacer y las condiciones que d
 
 ---
 
-# Conclusión
-
-El análisis de Grow Up debe partir de su actividad principal, centrada en ofrecer soluciones de movilidad mediante alquiler, renting y suscripción de vehículos, además de servicios complementarios de seguros y garantías.
-
-Esta actividad requiere coordinar la atención al cliente, la gestión de solicitudes y contratos, las operaciones relacionadas con los vehículos y las tareas administrativas. La existencia de varias sedes hace especialmente importante disponer de información organizada, accesible y protegida.
-
-Por ello, se propone diseñar un Sistema Informático Empresarial que dé soporte a los procesos de la empresa mediante una infraestructura de red y servicios organizada, segura, mantenible y ampliable.
-
-La propuesta relaciona la actividad de Grow Up con sus departamentos, las necesidades detectadas, las oportunidades de mejora y los requisitos funcionales y no funcionales. De este modo, las decisiones técnicas que se desarrollen en las siguientes prácticas tendrán una justificación basada en los procesos reales de la empresa.
-
----
 
