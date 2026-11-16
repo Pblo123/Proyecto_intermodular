@@ -1,7 +1,7 @@
-# Bitacora del Proyecto Intermodular
-## Grupo 1
+# Bitacora del Proyecto Intermodular - Grupo 1
 
-### 26 de octubre
+
+## 26 de octubre
 
 Durante esta primera sesión comenzamos a trabajar en el proyecto de la empresa GrowUp. El objetivo principal fue conocer la empresa y establecer una base sobre la que desarrollar el futuro Sistema Informático Empresarial.
 
